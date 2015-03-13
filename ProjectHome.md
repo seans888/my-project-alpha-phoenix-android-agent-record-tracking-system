@@ -1,0 +1,1 @@
+This project will consist of a record tracking system for an insurance agent using an android platform. This includes basic client information and a client's insurance plan.
